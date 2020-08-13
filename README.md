@@ -1,2 +1,2 @@
 # study
-For Study
+This Repository is For self Study
